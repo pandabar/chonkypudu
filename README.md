@@ -4,10 +4,10 @@ This Shiny app shows the visits to emergency rooms across Chile. The data are sh
 
 ## Files
 
-- **helpers.R** carries out the initial analysis from the data.
+- **helpers.R** carries out the initial analysis of the data.
 - **App.R** generates the user interface: it creates a table widget and a graph (a barchart in this case).
 
-The data consist of .parquet files, one for month. At this point I have only downloaded the data from year 2024 to find out how it worked.
+The data consist of .parquet files, one per month. At this point I have only downloaded the data from year 2024, just to find out how it worked.
 
 ## To-do list
 
